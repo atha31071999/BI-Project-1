@@ -2,7 +2,7 @@
 # Adventure Works Bike Shop-Dashboard
 
 ### Dashboard Link :
-https://app.powerbi.com/groups/me/reports/d4362ef2-db01-4b0b-9f5a-82d819a4b640/ReportSection?experience=power-bi&bookmarkGuid=Bookmarkab1b68cc75e824828834
+[https://app.powerbi.com/groups/me/reports/d4362ef2-db01-4b0b-9f5a-82d819a4b640/ReportSection?experience=power-bi&bookmarkGuid=Bookmarkab1b68cc75e824828834](https://app.powerbi.com/links/euU5dEd44T?ctid=2c5497d3-8764-40b7-98c7-4cb6462cd82f&pbi_source=linkShare&bookmarkGuid=49d1b15c-fbd5-4ad7-b9d3-3d1a8512c89b)
 
 ## Problem Statement
 
