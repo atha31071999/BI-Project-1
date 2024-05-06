@@ -2,10 +2,12 @@ Maven Market
 Dashboard Link :
 https://app.powerbi.com/view?r=eyJrIjoiMTIyZThmMWUtNWM4Ny00MDcyLWJiZTQtMjI2MmUyYThhMmJkIiwidCI6IjJjNTQ5N2QzLTg3NjQtNDBiNy05OGM3LTRjYjY0NjJjZDgyZiJ9
 
-Problem Statement
+Problem Statement:
+
 Maven Market, a multi-national grocery chain with locations in Canada, Mexico and the United States.Created a dashboard which shows the top 30 transactions based on product brand along with the profit, returns and other important KPIs.
 
-Steps followed
+Steps followed:
+
 Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 
 Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
